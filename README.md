@@ -11,6 +11,6 @@ Installation:
 
 4: Run: docker-compose up
 
-5: Run: docker ps // you sould see four containers running
+5: Run: docker ps // you should see four containers running
 
 If  you have any questions, please just let me know
